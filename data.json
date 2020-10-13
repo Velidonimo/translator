@@ -1,0 +1,20 @@
+{
+  "lang":
+        {
+          "lang_name":
+                      {
+                        "engl": "English",
+                         "rus": "Russian"
+                      },
+          "lang_popup":
+                      {
+                        "engl": "Apple",
+                        "rus": "Яюлоко"
+                      }
+        },
+  "labels":
+        {
+          "input": "Type a word:"
+        },
+  "translate": "Translate"
+}
