@@ -1,20 +1,26 @@
 {
-  "lang":
-        {
-          "lang_name":
-                      {
+  "lang":{
+          "lang_name":{
                         "engl": "English",
                          "rus": "Russian"
                       },
-          "lang_popup":
-                      {
+          "lang_popup":{
                         "engl": "Apple",
-                        "rus": "Яюлоко"
+                        "rus": "Яблоко"
                       }
         },
-  "labels":
-        {
+  "labels":{
           "input": "Type a word:"
-        },
-  "translate": "Translate"
+          },
+  "window_params":{
+                  "font_size": "30",
+                  "entry_width": "30"
+                  },
+  "translate": "Translate",
+  "sql":{
+          "name": "history",
+          "engl": "engl",
+          "rus": "rus",
+          "time": "time"
+        }
 }
